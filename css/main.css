@@ -46,9 +46,12 @@ h2 {
 body {
     background-color: #FFF;
     background-image: url('../images/bg.png');
+   "Palatino Linotype", "Book Antiqua", Palatino, serif
 
 }
 
+
+ 
 ul {
     list-style-type: none;
     margin: 0;
